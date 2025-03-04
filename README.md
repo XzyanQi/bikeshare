@@ -40,6 +40,6 @@ Tujuan proyek ini adalah untuk menganalisis set data Bike Sharing. Tujuan akhirn
 
     Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bikeshare-ihsan.streamlit.app/)
 
-## terinsiprasi
+## Terinsipirasi oleh
 
-project ini dimodifikasi dan terinspirasi dari [github arini](https://github.com/ariniamsr/bike-sharing/tree/main)
+Project ini merupakan modifikasi serta terinspirasi dari [github arini](https://github.com/ariniamsr/bike-sharing/tree/main)
