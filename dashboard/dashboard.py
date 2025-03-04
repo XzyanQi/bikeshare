@@ -30,8 +30,8 @@ dengan fokus pada pengaruh musim, cuaca, dan pola waktu terhadap jumlah peminjam
 # Fungsi untuk memuat data
 @st.cache_data
 def load_data():
-    day_df = pd.read_csv('day.csv')
-    hour_df = pd.read_csv('hour.csv')
+    day_df = pd.read_csv('data/day.csv')
+    hour_df = pd.read_csv('data/hour.csv')
     
     # Konversi Tanggal
     day_df['dteday'] = pd.to_datetime(day_df['dteday'])
