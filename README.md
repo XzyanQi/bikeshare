@@ -38,7 +38,7 @@ Tujuan proyek ini adalah untuk menganalisis set data Bike Sharing. Tujuan akhirn
     streamlit run dashboard.py
     ```
 
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dashboard-bike-sharing-kevin-simorangkir.streamlit.app/)
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bikeshare-ihsan.streamlit.app/)
 
 ## terinsiprasi
 
