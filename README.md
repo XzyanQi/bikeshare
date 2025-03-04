@@ -34,8 +34,8 @@ Tujuan proyek ini adalah untuk menganalisis set data Bike Sharing. Tujuan akhirn
 1. Masuk ke direktori proyek (Local):
 
     ```shell
-    cd dashboard-bike-sharing/dashboard/
-    streamlit run dashboard.py
+    cd Bikesharing
+    streamlit run dashboard/dashboard.py
     ```
 
     Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bikeshare-ihsan.streamlit.app/)
